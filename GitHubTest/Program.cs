@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Z")
+﻿Console.WriteLine("Z");
